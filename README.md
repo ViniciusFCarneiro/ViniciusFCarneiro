@@ -5,9 +5,9 @@
 )](https://api.whatsapp.com/send?phone=5533991545645&text=Ol%C3%A1!%20Peguei%20seu%20n%C3%BAmero%20atrav%C3%A9s%20do%20GitHub!) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 )](https://t.me/vinicius541998)
 
-## Tecnologias que uso no meu dia
+## Tecnologias:
 
- <div> style="display: inline_block"><br/>
+ <div>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
