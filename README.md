@@ -3,7 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/viniciusfig98/) [![Wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://api.whatsapp.com/send?phone=5533991545645&text=Ol%C3%A1!%20Peguei%20seu%20n%C3%BAmero%20atrav%C3%A9s%20do%20GitHub!) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/vinicius541998)
+)](https://t.me/vinicius541998) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/vinicius_fc98/)
 
 ## Tecnologias:
 
@@ -15,3 +16,4 @@
 <div><br/>
 
  Apaixonado por tecnologia iniciei meu processo de transição de carreira em Outubro de 2022, atualmente membro da primeiro turma do curso de BigData e Analytics da PoD Academy.
+
