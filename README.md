@@ -12,4 +12,6 @@
   <img align="center" alt="SQL" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<div>
+<div><br/>
+
+ Apaixonado por tecnologia iniciei meu processo de transição de carreira em Outubro de 2022, atualmente membro da primeiro turma do curso de BigData e Analytics da PoD Academy.
