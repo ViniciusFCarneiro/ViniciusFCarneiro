@@ -17,3 +17,4 @@
 
  Apaixonado por tecnologia iniciei meu processo de transição de carreira em Outubro de 2022, atualmente membro da primeira turma do curso de BigData e Analytics da PoD Academy.
 
+ Ainda focado nos estudos e em breve estarei postando meu primeiro projeto no repositório!
